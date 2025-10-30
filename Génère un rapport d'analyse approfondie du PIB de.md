@@ -1,6 +1,7 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Génère un rapport d'analyse approfondie du PIB de plusieurs pays. Le rapport doit être structuré de manière professionnelle et inclure les sections suivantes :
+#EL Amraoui Abir
+#ENCG SETTAT Finance G2
+Abir.jfif
+# Rapport d'analyse approfondie du PIB de plusieurs pays. Le rapport doit être structuré de manière professionnelle et inclure les sections suivantes :
 
 Structure du rapport attendu :
 1.
