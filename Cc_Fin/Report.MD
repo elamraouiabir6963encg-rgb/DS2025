@@ -91,7 +91,4 @@ Les principales variables explicatives du revenu sont **l’âge**, **le niveau 
   🔗 [https://archive.ics.uci.edu/ml/datasets/adult](https://archive.ics.uci.edu/ml/datasets/adult)
 * Kohavi, R. (1996). *Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid*. Proceedings of KDD-96.
 
----
-
-Souhaites-tu que je génère à partir de ces données une **analyse statistique complète** (avec graphiques et résumé Markdown) ?
 
