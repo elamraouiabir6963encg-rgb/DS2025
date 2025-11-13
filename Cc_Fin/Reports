@@ -1,3 +1,8 @@
+Voici ton descriptif complet en **format Markdown (.md)**, prêt à être utilisé dans un rapport, un notebook ou un dépôt GitHub 👇
+
+---
+
+```markdown
 # 🧾 Étude et Description de la Base de Données — *Census Income Dataset (Adult)*
 
 ---
@@ -190,7 +195,8 @@
 | **Problèmes potentiels** | Données anciennes, biais raciaux/gender, valeurs extrêmes |
 
 ---
+```
 
+---
 
-
-
+Souhaites-tu que je te crée aussi le **fichier `.md` téléchargeable** directement (par exemple `description_adult_dataset.md`) ?
