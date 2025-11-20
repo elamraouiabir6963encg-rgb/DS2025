@@ -293,7 +293,7 @@ La courbe décroît progressivement sans cassure franche → structure « diffus
 
 La projection colorée par la qualité montre :
 
-* Les vins **plus alcoolisés et plus acides** se![Statistiques descriptives](distribution_valeurs.png) rapprochent du côté de PC1.
+* Les vins **plus alcoolisés et plus acides** se rapprochent du côté de PC1.
 * Les vins **moins denses et plus qualitatifs** tendent à se regrouper.
 
 **Interprétation :**
