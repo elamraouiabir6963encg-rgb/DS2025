@@ -187,6 +187,7 @@ plt.show()
 ## **3. Résultats & Interprétations détaillées**
 
 ### ### **3.1 Statistiques descriptives** 
+![Statistiques descriptives](distribution_valeurs.png)
 Le tableau `.describe()` montre :
 
 * Certaines variables ont une **variabilité forte** (ex : sucre résiduel, soufre total).
@@ -220,6 +221,7 @@ Aucune corrélation extrême ne domine, ce qui signifie que les variables apport
 ---
 
 ## **3.4 Histogrammes des variables**
+![Distribution des variables](distribution_valeurs.png)
 
 Les graphiques montrent :
 
@@ -233,6 +235,7 @@ Les asymétries expliquent pourquoi le test de normalité conclura à la non‑n
 ---
 
 ## **3.5 Boxplots — Détection des outliers**
+![télécharger](distribution_valeurs.png)
 
 Les boxplots révèlent :
 
@@ -246,7 +249,7 @@ La production de vin peut naturellement générer des extrêmes : vins très suc
 ---
 
 ## **3.6 Test de normalité — Shapiro‑Wilk**
-
+![Test Shapiro](distribution_valeurs.png)
 Résultat : quasi toutes les variables obtiennent **p-value < 0,05**, indiquant une **non‑normalité**.
 
 ### **Interprétation :**
@@ -262,6 +265,7 @@ Les variables ont été standardisées avec `StandardScaler`, ce qui est indispe
 ## **3.8 ACP — Analyse des composantes principales**
 
 ### **Variance expliquée**
+![Variance expliquée](distribution_valeurs.png)
 
 L’ACP à 5 composantes montre :
 
@@ -275,6 +279,8 @@ La structure du dataset est relativement dispersée : aucune composante ne domin
 ---
 
 ## **3.9 Scree Plot**
+![Variance expliquée graphe](distribution_valeurs.png)
+![Variance expliquée cumulée graphe](distribution_valeurs.png)
 
 La courbe décroît progressivement sans cassure franche → structure « diffuse ».
 
@@ -283,10 +289,11 @@ La courbe décroît progressivement sans cassure franche → structure « diffus
 ---
 
 ## **3.10 Projection PC1 vs PC2 (Individus)**
+![Projection ACP](distribution_valeurs.png)
 
 La projection colorée par la qualité montre :
 
-* Les vins **plus alcoolisés et plus acides** se rapprochent du côté de PC1.
+* Les vins **plus alcoolisés et plus acides** se![Statistiques descriptives](distribution_valeurs.png) rapprochent du côté de PC1.
 * Les vins **moins denses et plus qualitatifs** tendent à se regrouper.
 
 **Interprétation :**
@@ -299,6 +306,7 @@ Les dimensions principales reflètent fortement :
 ---
 
 ## **3.11 Biplot (Individus + Variables)**
+![Biplot ACP](distribution_valeurs.png)
 
 Le biplot montre :
 
@@ -313,6 +321,7 @@ PC1 résume une opposition entre vins légers / alcoolisés et vins sucrés / de
 ---
 
 ## **3.12 Heatmap des loadings (coefficients de l’ACP)**
+![Matrices des CP](distribution_valeurs.png)
 
 Le tableau montre combien chaque variable contribue à chaque composante.
 
