@@ -187,7 +187,6 @@ plt.show()
 ## **3. Résultats & Interprétations détaillées**
 
 ### ### **3.1 Statistiques descriptives** 
-![Statistiques descriptives](distribution_valeurs.png)
 Le tableau `.describe()` montre :
 
 * Certaines variables ont une **variabilité forte** (ex : sucre résiduel, soufre total).
@@ -201,13 +200,13 @@ Les différences de dispersion indiquent que les variables influencent différem
 ---
 
 ## **3.2 Valeurs manquantes**
-
+![Valeurs manquantes](distribution_valeurs.png)
 Aucune valeur manquante n’a été détectée (`0` partout). La base est propre et directement exploitable.
 
 ---
 
 ## **3.3 Matrice de corrélation – Heatmap**
-
+![Matrice de corrélation](distribution_valeurs.png)
 ### **Principales corrélations observées :**
 
 * **density ↗ with residual sugar** : Le sucre influence logiquement la densité du vin.
