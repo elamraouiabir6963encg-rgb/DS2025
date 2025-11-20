@@ -189,7 +189,7 @@ plt.show()
 ### ### **3.1 Statistiques descriptives** 
 ![Statistiques descriptives](https://raw.githubusercontent.com/USERNAME/REPO/main/image.png)
 ML/Statistiques descriptives.png 
-
+![Statistiques descriptives](distribution_valeurs.png)
 Le tableau `.describe()` montre :
 
 * Certaines variables ont une **variabilité forte** (ex : sucre résiduel, soufre total).
