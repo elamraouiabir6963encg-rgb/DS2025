@@ -187,6 +187,7 @@ plt.show()
 ## **3. Résultats & Interprétations détaillées**
 
 ### ### **3.1 Statistiques descriptives**
+ML/Statistiques descriptives.png 
 
 Le tableau `.describe()` montre :
 
