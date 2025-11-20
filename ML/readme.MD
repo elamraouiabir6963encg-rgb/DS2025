@@ -188,6 +188,7 @@ plt.show()
 
 ### ### **3.1 Statistiques descriptives** 
 ![Statistiques descriptives](https://raw.githubusercontent.com/USERNAME/REPO/main/image.png)
+ML/Statistiques descriptives.png 
 
 Le tableau `.describe()` montre :
 
